@@ -3,7 +3,7 @@
 #USE t3 INSTEAD OF http IF YOU HAVE NOT ENABLED THE TUNNELING. IF YOU WANT TO ENABLE TUNNELING IN SERVER>PROTOCALS>GENERAL>ENABLE TUNNELING
 $adminUrl = "t3://desktop-jh9jp1c:7001/"
 $username = "weblogic"
-$password = "weblogic123"
+$password = "weblogic@123"
 $appPath =  "C:/DevOpsSoftware/weblogic/devopstool.war"
 $target = "AdminServer"
 
